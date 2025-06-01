@@ -1,0 +1,40 @@
+{
+    "carrotHp": 3,
+    "carrotSpeedX": 1,
+    "carrotJumpSpeedY": 10,
+    "carrotSurprisedSpeedX": 5,
+    "carrotSurprisedSpeedY": 5,
+    "carrotGravity": 1,
+    "carrotSurprisedGravity": 3,
+    "carrotSurprisedFrames": 30,
+
+    "gumboHp": 10,
+    "gumboPower": 1,
+    "gumboAppearingSpeed": 2,
+    "gumboDashSpeed": 7,
+    "gumboRetreatSpeed": 7,
+    "gumboWaitingFrames": 50,
+    "gumboSortieRate": 0.05,
+    "gumboSurprisedSpeedX": 5,
+    "gumboSurprisedSpeedY": 5,
+    "gumboSurprisedGravity": 3,
+    "gumboSurprisedFrames": 30,
+
+    "gumboBigHp": 20,
+    "gumboBigPower": 1,
+    "gumboBigDashSpeed": 1,
+
+    "gumboAppearingRate": 0.05,
+    "gumboBigAppearingRate": 0.1,
+    "gumboBigCountTimer": 10, 
+
+    "scoreGumbo": 500,
+    "scoreGumboGetJumpedOver": 300,
+    "scoreGumboFromBehind": 222222,
+    "scoreGumboBig": 3000,
+    
+    "colorScoreGumbo": "yellow",
+    "colorScoreGumboGetJumpedOver": "yellow",
+    "colorScoreGumboFromBehind": "yellow",
+    "colorScoreGumboBig": "yellow"
+}
